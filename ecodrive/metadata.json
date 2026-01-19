@@ -1,0 +1,7 @@
+{
+  "name": "EcoDrive Família",
+  "description": "Sistema avançado de controle de combustível familiar com cálculo automático de rotas via Google Maps (Gemini) e estatísticas detalhadas de consumo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
